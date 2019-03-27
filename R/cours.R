@@ -8,3 +8,5 @@
 # test unitaire
 # usethis::use_test()
 # lancer test : crtl + maj + t
+
+# controle orthographe spelling::spell_check_setup() et spell_check_package --> package spelling
