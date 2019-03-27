@@ -4,9 +4,9 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: What the Package Does (One Line, Title Case)}
+\title{minidplyr: Nothing}
 \description{
-What the package does (one paragraph).
+Little Thing
 }
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com}
