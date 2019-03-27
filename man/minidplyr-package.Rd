@@ -4,12 +4,12 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: Nothing}
+\title{minidplyr: Nothing Matters}
 \description{
-Little Thing
+Little Thing. Simple Thing.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Basile Jumentier \email{basile.jumentier@gmail.com}
 
 }
 \keyword{internal}

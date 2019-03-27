@@ -17,8 +17,7 @@ test <- function() {
 #' A function to select column in a data.frame
 #'
 #' @param data a data.frame
-#' @param selection the column to select, can be the a vector of interger 
-#' or a vector of the names of the column
+#' @param selection interger, logical, or character vector
 #'
 #' @return the choosen column
 #' @export

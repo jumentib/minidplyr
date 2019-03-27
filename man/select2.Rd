@@ -9,8 +9,7 @@ select2(data, selection)
 \arguments{
 \item{data}{a data.frame}
 
-\item{selection}{the column to select, can be the a vector of interger
-or a vector of the names of the column}
+\item{selection}{interger, logical, or character vector}
 }
 \value{
 the choosen column
